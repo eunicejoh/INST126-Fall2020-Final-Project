@@ -8,7 +8,7 @@ Many choose cereal as their breakfast meal and there are various brands and kind
 Our goal is to provide a comparison of nutritional values of different cereals to inform consumers about their cereal choices as well as encourage healthier eating habits.
 
 ## Installation
-Please ensure that Jupyter Lab or Jupyter Notebook is downloaded. Additionally, please have a cereal.csv file on hand, within the relevant folder. Then, run the ipynb file in a new Jupyter Lab tab.
+Please ensure that Jupyter Lab or Jupyter Notebook is downloaded. Additionally, please have a cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
 
 ## How It Works
 
