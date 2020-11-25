@@ -3,12 +3,12 @@
 ### Group Members: Eunice Oh, Dante Cavalier, Zijing Wang, Jalen Rawles, Noah Shaw
 
 ## Overview
-Many choose cereal as their breakfast meal and there are various brands and kinds, all of which also have differing nutritional values. In other words, some are healthier while others are not. With nutritional value becoming increasingly more prevalent in society, it’s important for consumers to be health-conscious of what they intake. Furthermore, we wanted to provide a comparison tool for consumers to use before making a choice of which cereal they may want to buy and give suggestions based on what they may be looking for in a particular cereal.
+Many choose cereal as their breakfast meal and there are various brands and kinds, all of which also have differing nutritional values. In other words, some are healthier while others are not. With nutritional value becoming increasingly more prevalent in society, it’s important for consumers to be health-conscious of what they intake. Furthermore, we wanted to provide a nutrition tool for consumers to research specific cereals, compare multiple cereals, and look for certain cereal that meets their nutritional needs and wants.
 
-Our goal is to provide a comparison of nutritional values of different cereals to inform consumers about their cereal choices as well as encourage healthier eating habits.
+Our goal is to provide a comparison of nutritional values of different cereals to inform consumers about their cereal choices as well as encourage healthier eating habits through the displays of charts and graphs.
 
 ## Installation
-Please ensure that Jupyter Lab or Jupyter Notebook is downloaded. Additionally, please have a cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
+Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please have the cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
 
 ## How It Works
 Our program will aim to help the user complete 3 different tasks through the use of pandas and matplotlibs.
