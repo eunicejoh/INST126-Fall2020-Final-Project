@@ -33,5 +33,4 @@ After going through all three functions, the program will end with a goodbye mes
 ## Updates
 
 ## Credits
-The dataset was created and shared by Chris Crawford on Kaggle.
-https://www.kaggle.com/crawford/80-cereals
+The dataset was created and shared by Chris Crawford on Kaggle (https://www.kaggle.com/crawford/80-cereals)
