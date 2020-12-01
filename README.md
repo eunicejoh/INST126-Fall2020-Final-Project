@@ -30,24 +30,5 @@ After going through all three functions, the program will end with a goodbye mes
 ## Installation
 Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please have the cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
 
-## Updates
-### November 17, 2020
-- Had a meeting to discuss what we wished to do in terms of the data analysis theme that we had previously decided on
-- Collaborated on finding CSVs and unanimously decided on one
-- Created the repo and the specific files for the code and flowcharts
-- Wrote out code for reading and cleaning up the downloaded CSV file / dataset
-
-### November 24, 2020
-- Had a meeting to outline flowcharts
-- Additionally planned out a rough outline of the entire program
-- Flowcharts for our functions were completed
-
-### December 1, 2020
-- Had a meeting to discuss code thus far
-- Updated the readme with the updates to our progress as well as user assumptions
-
-## User Assumptions
-This program will assume that users:
-
 ## Credits
 - The dataset was created and shared by Chris Crawford on Kaggle (https://www.kaggle.com/crawford/80-cereals)
