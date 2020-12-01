@@ -7,9 +7,6 @@ Many choose cereal as their breakfast meal and there are various brands and kind
 
 Our goal is to provide a comparison of nutritional values of different cereals to inform consumers about their cereal choices as well as encourage healthier eating habits through the displays of charts and graphs.
 
-## Installation
-Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please have the cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
-
 ## How It Works
 Our program will aim to help the user complete 3 different tasks through the use of pandas and matplotlibs.
 
@@ -30,7 +27,25 @@ The last question our program will ask the user is if the user has any specific 
 
 After going through all three functions, the program will end with a goodbye message. 
 
+## Installation
+Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please have the cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
+
 ## Updates
+### November 17, 2020
+- Had a meeting to discuss what we wished to do in terms of the data analysis theme that we had previously decided on
+- Collaborated on finding CSVs and unanimously decided on one
+- Created the repo and the specific files for the code and flowcharts
+- Wrote out code for reading and cleaning up the downloaded CSV file / dataset
+
+### November 24, 2020
+- Had a meeting to outline flowcharts
+- Additionally planned out a rough outline of the entire program
+- Flowcharts for our functions were completed
+
+### December 1, 2020
+
+## User Assumptions
+This program will assume that users:
 
 ## Credits
 The dataset was created and shared by Chris Crawford on Kaggle (https://www.kaggle.com/crawford/80-cereals)
