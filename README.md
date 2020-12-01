@@ -43,9 +43,11 @@ Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please hav
 - Flowcharts for our functions were completed
 
 ### December 1, 2020
+- Had a meeting to discuss code thus far
+- Updated the readme
 
 ## User Assumptions
 This program will assume that users:
 
 ## Credits
-The dataset was created and shared by Chris Crawford on Kaggle (https://www.kaggle.com/crawford/80-cereals)
+- The dataset was created and shared by Chris Crawford on Kaggle (https://www.kaggle.com/crawford/80-cereals)
