@@ -44,7 +44,7 @@ Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please hav
 
 ### December 1, 2020
 - Had a meeting to discuss code thus far
-- Updated the readme
+- Updated the readme with the updates to our progress as well as user assumptions
 
 ## User Assumptions
 This program will assume that users:
