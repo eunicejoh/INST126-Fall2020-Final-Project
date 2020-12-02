@@ -44,6 +44,7 @@ After going through all three functions, the program will end with a goodbye mes
 - Team held a meeting to discuss code progress as well as distribute coding roles
 - Updated the README to include our progress and updates
 - Created a new folder for the documents pertaining to the required weekly updates
+- Finalized starter code for functions
 
 ## Installation
 Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please have the cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
