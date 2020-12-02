@@ -27,6 +27,24 @@ The last question our program will ask the user is if the user has any specific 
 
 After going through all three functions, the program will end with a goodbye message. 
 
+## Updates
+### November 17, 2020
+- Team held a meeting to discuss project ideas/plans.
+- Decided on a data analysis approach
+- Collaborated on finding potential CSVs (datasets) and unanimously decided on (https://www.kaggle.com/crawford/80-cereals)
+- Created the repository and folders for the code and flowcharts
+- Wrote out code for reading and cleaning up the downloaded dataset
+
+### November 24, 2020
+- Team held a meeting to discuss and outline project flowcharts
+- Created a rough outline of the program
+- Team completed flowcharts for all planned functions of the program
+
+### December 1, 2020
+- Team held a meeting to discuss code progress as well as distribute coding roles
+- Updated the README to include our progress and updates
+- Created a new folder for the documents pertaining to the required weekly updates
+
 ## Installation
 Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please have the cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
 
