@@ -20,10 +20,13 @@ The 3 different tasks are in the form of questions as follows in this order:
 
 Each of these tasks/questions will have their own function.
 
+### search_for_cereal()
 The first function our program will have is allowing the user to research information regarding a specific cereal. The user would tell the program what cereal they would like to research, and it would return nutritional and informational data about the cereal such as the manufacturer, how many calories per serving, and how many grams of fat are in it. Our program will also provide visual representations of some of the information using graphs and charts to better convey information to the user. The user can research as many individual cereals as they would like before being prompted with the next function. 
 
+### compare_cereal()
 The next capability or program will have is allowing the user to compare data between two different cereals. The user would select two cereals they would like to compare and return the data from both cereals in a format that allows the user to compare them. The user will be able to continue comparing as many cereals as they wish before being prompted with the final question. 
 
+### specific_needs()
 The last question our program will ask the user is if the user has any specific needs regarding their cereal choice. For example, if the the user wants to be shown the cereals with the lease amount of sugar or wants cereals from a specific manufacturer, the program will sort the data based on the user's parameters and provide the user with their requested information using charts, graphs, etc. Similarly to the other two functions, the user can do this as many times as they would like. 
 
 After going through all three functions, the program will end with a goodbye message. 
