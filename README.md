@@ -56,6 +56,9 @@ After going through all three functions, the program will end with a goodbye mes
 - Confirmed that our visualizations would be bar graphs (vertical and horizontal)
 - Added visualizations for the compare_cereal() and specific_needs() functions
 
+## User Assumptions 
+With the use of datasets, it is important that the user's input must match exactly what appears in the dataset AND mentioned in the instructions. Furthermore, this program will assume that the user is aware of this. Additionally, this program will assume that the user will input valid answers as referred in the instructions.
+
 ## Installation
 Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please have the cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
 
