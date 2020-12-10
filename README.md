@@ -50,6 +50,12 @@ After going through all three functions, the program will end with a goodbye mes
 - Created a new folder for the documents pertaining to the required weekly updates
 - Finalized starter code for functions
 
+### December 9, 2020
+- After originally planning to provide visualizations for all three functions, the search_for_cereal() function only displayed the relevant information for one specific cereal. As a reuslt, we decided to only implement the visualizations in the compare_cereal() and specific_needs() functions
+- Edited and finalized the goodbye message to end the program
+- Confirmed that our visualizations would be bar graphs (vertical and horizontal)
+- Added visualizations for the compare_cereal() and specific_needs() functions
+
 ## Installation
 Please have Jupyter Lab or Jupyter Notebook downloaded. Additionally, please have the cereal.csv file on hand. Then, run the ipynb file in a new Jupyter Lab or Notebook.
 
